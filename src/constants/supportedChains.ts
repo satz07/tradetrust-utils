@@ -111,7 +111,7 @@ export const SUPPORTED_CHAINS: supportedChains = {
     currency: "XDC",
     iconImage: iconXDC,
     explorerUrl: "https://xdcscan.io",
-    rpcUrl: "https://tradetrustrpc.xdcrpc.com",
+    rpcUrl: "https://xdctraderpc.xinfin.network",
     nativeCurrency: {
       name: "XDC",
       symbol: "XDC",
@@ -126,7 +126,7 @@ export const SUPPORTED_CHAINS: supportedChains = {
     currency: "XDC",
     iconImage: iconXDC,
     explorerUrl: "https://apothem.xdcscan.io",
-    rpcUrl: "https://tradetrustarpc.xdcrpc.com",
+    rpcUrl: "https://erpc.apothem.network",
     nativeCurrency: {
       name: "XDC",
       symbol: "XDC",
